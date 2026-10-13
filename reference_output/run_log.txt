@@ -1,0 +1,29 @@
+
+== Calibrating every method under the null (N_NULL = 2e+05 ) ==
+  k = 7 
+  k = 11 
+  k = 15 
+  k = 19 
+  calibrating BM93 per design
+
+Checks passed: 198 of 198 
+
+== Worked example: BHH 12-run PB reactor data ==
+           rule  method tau_hat declared
+DAN591  CAL_IER   DAN59   8.833        B
+ZAHN751 CAL_IER  ZAHN75   8.791        B
+LEN891  CAL_IER   LEN89  10.750     none
+12      CAL_IER SDLEN01      NA     none
+JP921   CAL_IER    JP92  10.895     none
+DONG931 CAL_IER  DONG93   8.953        B
+13      CAL_IER    BM86      NA        B
+MAD01   CAL_IER    MAD0  10.625     none
+QNS1    CAL_IER     QNS   9.116        B
+2       CAL_IER    BM93      NA    B,D,E
+
+== Simulation: 232 conditions x 10000 replicates ==
+Simulation time: 15.4 min
+
+== Box-Meyer sensitivity ==
+
+All done. Tables in /home/claude/work/run4/Screening_Output/tables and figures in /home/claude/work/run4/Screening_Output/figures 
