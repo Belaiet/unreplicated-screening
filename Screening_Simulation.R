@@ -2,9 +2,8 @@
 ##  Screening_Simulation.R
 ##
 ##  Supplementary material to
-##  Md. Belaiet Hossain and A Z M Shafiullah "Identifying Active Effects in Unreplicated Two-Level Designs: 
-##  A Comparative Simulation Study and a Label-Invariant Qn Scale Estimator", 
-##   Submitted to the Journal of Statistical Computation and Simulation (2026).
+##    Md. Belaiet Hossain and A. Z. M. Shafiullah, "Choosing a Screening Rule for Unreplicated Two-Level Designs: 
+##    A Calibrated Comparison and a Label-Invariant Robust Scale Estimator", manuscript (2026).
 ##    
 ##
 ##  Authors       Md. Belaiet Hossain
