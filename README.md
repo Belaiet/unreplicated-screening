@@ -2,7 +2,8 @@
 
 R code and reference output for the article
 
-> Md. Belaiet Hossain and A Z M Shafiullah. *Identifying Active Effects in Unreplicated Two-Level Designs: A Comparative Simulation Study and a Label-Invariant Qn Scale Estimator.* Submitted to the *Journal of Statistical Computation and Simulation* (2026).
+Md. Belaiet Hossain and A. Z. M. Shafiullah, "Choosing a Screening Rule for Unreplicated Two-Level Designs: 
+A Calibrated Comparison and a Label-Invariant Robust Scale Estimator", manuscript (2026).
 
 The script implements and verifies nine procedures for identifying active effects in unreplicated two-level designs:
 
